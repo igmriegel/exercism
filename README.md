@@ -5,3 +5,5 @@ Exercism is a website where you can learn programing trough problem solving exer
 https://exercism.io/
 
 :smile:
+
+I havent uploaded the files that manage the dependencies of each exercise. If you follow the steps on the exercism website to setup your enviroment for each language you should be able to execute and test the files. :smile:
