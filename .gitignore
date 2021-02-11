@@ -1,0 +1,9 @@
+*.json
+*.eslintrc
+*.npmrc
+*.config.js
+.pytest_cache/
+.exercism/
+__pycache__/
+node_modules/
+
